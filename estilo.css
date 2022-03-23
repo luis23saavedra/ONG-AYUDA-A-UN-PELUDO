@@ -1,0 +1,117 @@
+
+
+/* paginaprincipal*/
+header{
+    float: right;
+}
+
+.h1-principal{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 0;
+}
+p{
+    margin-top: 0;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+h2 {
+    text-align: center;
+
+}
+
+
+
+.integrantes{
+    margin-left: 300px;  
+
+}
+.foto-gato{
+    vertical-align: middle;
+    padding-right: 100px;
+    margin-left: 300px;
+    width: 200px;   
+    margin-bottom: 20px;
+
+}
+
+.foto-perro {
+    vertical-align: middle;
+    padding-right: 100px;
+    margin-left: 300px;
+    width: 200px ;
+    height: 120px;
+    
+}
+
+
+/*pagina gatos*/
+.h1-gatos{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+img.foto-gato-1 ,img.foto-gato-2 ,img.foto-gato-3{
+    vertical-align: middle;
+    padding-right: 100px;
+    
+    
+}
+.foto-gato-1{
+    width: 200px;
+    height: 150px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+.foto-gato-2{
+    
+    width: 200px;
+    height: 150px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    
+}    
+.foto-gato-3{
+    width: 200px;
+    height: 150px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    
+}
+
+/*pagina perros*/
+
+.h1-perros {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+/*perro-kona*/
+.perro-kona{
+    margin-top: 170px;
+    
+}
+.aside-kona  {    
+    margin-top:  -220px;
+    margin-right: 900px;
+    margin-left: 280px;
+    vertical-align: middle;
+
+}
+/*gato-sonrisa*/
+.gato-sonrisa {
+    width: 400px;
+    height: 300px;
+    margin-top: 170px;
+}
+.aside-sonrisa{
+    margin-top: -200px;
+    margin-left: 450px;
+}
+
+
+
+
